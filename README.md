@@ -34,7 +34,7 @@ pip install psutil
 
 # 4. Run the Guard (Require Root for Network Inspection)
 sudo python3 src/main.py
-
+```
 ---
 
 ## 📖 Research Documentation
