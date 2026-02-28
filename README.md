@@ -35,3 +35,19 @@ pip install psutil
 # 4. Run the Guard (Require Root for Network Inspection)
 sudo python3 src/main.py
 
+---
+
+## 📖 Research Documentation
+Untuk pemahaman mendalam mengenai metodologi yang saya gunakan, silakan baca dokumen berikut:
+* [📄 Technical Whitepaper](docs/WHITEPAPER.md) - Penjelasan Logika & Metodologi.
+* [🎬 Usage Demo](docs/DEMO.md) - Skenario simulasi deteksi serangan.
+
+---
+
+## 🤝 Community & Contribution
+Saya membangun alat ini untuk memperkuat kedaulatan siber Indonesia. Jika Anda ingin berkontribusi atau melaporkan bug, silakan buka **Issue** atau kirimkan **Pull Request**.
+
+> **"Vigilance is the path to true security."** > — *BRIDA-VigilantR-1N*
+
+---
+© 2026 **BRIDACyberForceXploit**. Released under [MIT License](LICENSE).
